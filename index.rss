@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Benjamin C Meyer's Git Achievements</title>
-<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
-<item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Collector (Level 2)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Collector (Level 1)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Inventor (pull)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (clone)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (reset)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (remote)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (diff)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (fetch)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Master Carpenter (Level       10)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
+<title>Stéphane CRIVISIER's Git Achievements</title>
+<description></description>
+<link></link>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
