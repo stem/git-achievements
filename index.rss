@@ -2,6 +2,7 @@
 <title>Stéphane CRIVISIER's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
 <item><title>Gipsy (Level 6)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 </channel></rss>
