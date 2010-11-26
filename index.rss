@@ -2,6 +2,7 @@
 <title>Stéphane CRIVISIER's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Master Gipsy (Level 7)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Presenter (Level 4)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
@@ -21,5 +22,4 @@
 <item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
 <item><title>Gipsy (Level 6)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 </channel></rss>
