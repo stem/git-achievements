@@ -2,6 +2,7 @@
 <title>Stéphane CRIVISIER's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Gipsy (Level 7)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Presenter (Level 4)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
