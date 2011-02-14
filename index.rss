@@ -2,6 +2,7 @@
 <title>Stephane CRIVISIER's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Seamstress (Level 5)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Butcher (Level 5)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
