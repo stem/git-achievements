@@ -19,7 +19,7 @@ A log of all of your achievements is kept locally, but you can also publish
 it to GitHub pages so you can share your achievements (and there is a rss
 feed so people can track your achievements).
 
-For example here is mine: http://icefox.github.com/git-achievements
+For example here is mine: http://stem.github.com/git-achievements
 
 To push your achievements to GitHub first fork the project on GitHub,
 clone *your* repository and set the following config to true:
