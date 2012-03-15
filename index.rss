@@ -2,6 +2,7 @@
 <title>Stephane CRIVISIER's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Butcher (Level 6)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Tree Trimmer (Level 3)</title><description>Rewrite branches with git filter-branch</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Pilgrim (Level 2)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Apprentice Pilgrim (Level 1)</title><description>Performed a rebase using git rebase --onto.</description></item>
-<item><title>Master Collector (Level 8)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 </channel></rss>
