@@ -2,6 +2,7 @@
 <title>Stephane CRIVISIER's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Product Manager (Level 8)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Hunter (Level 4)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Hunter (Level 3)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Hunter (Level 2)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Pilgrim (Level 3)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
